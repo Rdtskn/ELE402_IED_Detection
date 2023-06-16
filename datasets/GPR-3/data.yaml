@@ -1,0 +1,12 @@
+names:
+- hyperbola
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: gpr-imb0u
+  url: https://universe.roboflow.com/gprworkspace/gpr-imb0u/dataset/3
+  version: 3
+  workspace: gprworkspace
+test: ../test/images
+train: /content/datasets/GPR-3/train/images
+val: /content/datasets/GPR-3/valid/images
