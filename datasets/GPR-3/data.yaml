@@ -8,5 +8,6 @@ roboflow:
   version: 3
   workspace: gprworkspace
 test: ../test/images
-train: /content/datasets/GPR-3/train/images
-val: /content/datasets/GPR-3/valid/images
+
+train: /content/ELE402_IED_Detection/datasets/GPR-3/train/images
+val: /content/ELE402_IED_Detection/datasets/GPR-3/valid/images
